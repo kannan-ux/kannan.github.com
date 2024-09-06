@@ -1,0 +1,70 @@
+kannan B
+Data Scientist Data Analyst 
+
+Chennai
+76039 63919
+
+Committed to helping companies advance by helping them to develop strategic plans based on predictive modeling and findings.
+Accomplished Data Scientist with a passion for delivering valuable data through analytical functions and data retrieval methods. Committed to helping companies advance by helping them to develop strategic plans based on predictive modeling and findings. Bringing forth a proven track record of analyzing complex data sets and serving as a strong advisor.
+
+PERSONAL INFORMATION
+  Address: , Chennai, 
+  Nationality: 
+  Driving License: 
+  Hobbies: Listening Songs 
+Reading Books 
+Watching Anime 
+
+SOCIAL PROFILES
+  * linkedin.com/in/kannan-b-97289a2b2: 
+  * : 
+
+SKILLS
+  Communication Skills
+  Ability to Work in a Team
+  Microsoft Excel
+  Data Visualization
+  SQL
+  Machine Learning
+  Python
+  Data cleaning 
+  Power Bi
+  java
+
+WORK EXPERIENCE
+  * June 2024 – August 2024
+    Data scientist Intern  at internship, Chennai
+      
+  Developed a data ingestion process to automate the transfer of data from multiple sources into a single database, resulting in a X% reduction in manual data entry
+  Created data models and documented data flows to improve system architecture and data quality
+  Utilized data visualization tools to create interactive graphical representations of financial data
+
+
+
+EDUCATION
+  * June 2016 – May 2017
+    Adhiyaman Matric Hr.Sec.School, Krishnagiri 10 th.
+
+    Graduated with high honors with high percentage of 92%
+  * June 2018 – May 2019
+    Ideal Hr.Sec.School, Erode 12 th
+
+    Graduated with high honors with  Percentage of 73%
+  * August 2019 – May 2023
+    Thangavelu Engineering  college, Chennai B.Tech IT
+
+    Graduated with high honors with high percentage of 77%
+
+
+  * Project -1, , 
+
+    Brain stock prediction using Machine Learning 
+   we use the supervised algorthims used for the prediction and to 
+   get the correct data insights and  the model consumes some 
+   necessary details like BMI, Blood  for the brain stock prediction 
+  * Project -2, , 
+
+    E -Mail Spam Detection
+      we use the machine learning algorthims like naive bayes 
+     classifier it is used to detect the e_mail and it checks whether the 
+     email is spam or not and it is  currently using in the e_mail app.
